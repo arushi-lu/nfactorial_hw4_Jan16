@@ -1,0 +1,109 @@
+.title{
+    color: black;
+    padding-bottom: 5%;
+    margin-left: -80%;
+}
+.author{
+    margin-left: 7%;
+}
+.in{
+    margin-left: 1%;
+    opacity: 0.5;
+}
+.topic{
+    margin-left: 1%;
+}
+.july{
+    margin-left: 1%;
+    opacity: 0.5;
+}
+.bigTitle{
+    margin-left: -66.8%;
+    margin-top: 5%;
+}
+#summary1{
+    margin-left: -35.5%;
+}
+#summary2{
+    margin-left: -60%;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.line{
+    background-color: black;
+    opacity: 20%;
+    margin-top:20px; line-height: 10%;
+    width:92%; height: 1%;
+    color: transparent;
+}
+
+.but{
+    height: 40px;
+    width: 120px;
+    border: none;
+    border-radius: 30px;
+    margin-top: 48px;
+    margin-left: 95px;
+    background-color: #d3d3d3;
+    
+    
+}
+
+.cubes{
+    margin-left: 170px;
+}
+.cube1{
+    margin-top: 55px;
+    margin-left: 20px;
+    background-color: #E1E0E6;
+    width: 24px;
+    height: 24px;
+    color: transparent;
+}
+
+.bot_w{
+    font-size: 14px;
+    opacity: 50%;
+    margin-left: 50%;
+}
+.bot_w_l{
+    font-size: 14px;
+    margin-left: 73%;
+    margin-top: 40px;
+}
+
+.first_div{
+    margin-left: 10%;
+}
+
+.first_p{
+    margin-top: 16%;
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+.image{
+    width: 580px;
+    height: 330px;
+    mix-blend-mode: multiply;
+    margin-top: -20%;
+    margin-left: 10%;
+    
+}
+
+.bot_w_2{
+    font-size: 14px;
+    opacity: 50%;
+    margin-left: 39%;
+    margin-top: 20%;
+
+}
+.bot_w_l2{
+    font-size: 14px;
+    margin-left: 65%;
+    margin-top: 40px;
+    color: black;
+}
